@@ -1,4 +1,5 @@
-
-(\.|^)googleadservices\.net$
-(\.|^)googleads\.g\.doubleclick\.net$
-(\.|^)googleadservices\.com$
+www.googleadservices.com
+ad.doubleclick.net
+www.googletagservices.com
+www.googletagmanager.com
+www.google-analytics.com
