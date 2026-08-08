@@ -1,1 +1,4 @@
 
+(\.|^)googleadservices\.net$
+(\.|^)googleads\.g\.doubleclick\.net$
+(\.|^)googleadservices\.com$
